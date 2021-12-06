@@ -1,5 +1,5 @@
 [
-{
+    {
       id: "1",
       no: "1",
       tujuan: "KPP Migas",
@@ -153,4 +153,4 @@
       tanggal: "10-10-2020",
       perihal: "asdhadshjk asdjkhakjhsd asdhjkasdhjk",
     },
-]
+  ];
